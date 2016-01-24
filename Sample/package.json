@@ -1,0 +1,14 @@
+{
+  "name": "NHSample",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react-native": "^0.18.1",
+    "react-native-fbsdkcore": "file:../react-native-fbsdkcore/",
+    "react-native-fbsdklogin": "file:../react-native-fbsdklogin/",
+    "react-native-fbsdkshare": "file:../react-native-fbsdkshare/"
+  }
+}
